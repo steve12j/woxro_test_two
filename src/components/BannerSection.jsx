@@ -18,7 +18,7 @@ const BannerSection = () => {
                 />
                 <p className='text-center min-w-[340px]'>Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more. Each Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite ... Drop In</p>
                 <button
-                className='text-black text-sm font-medium bg-white px-16 py-4 mt-10'
+                className='text-black text-sm font-medium whitespace-nowrap  bg-white px-16 py-4 mt-10'
                 >
                     Vist Website
                 </button>
